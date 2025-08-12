@@ -1,0 +1,5 @@
+x=float(input("Pris (Kr):"))
+y = int(0.1*x)
+print("Avdrages", y, "kr")
+z = int(x - y)
+print("Nettopris", z, "kr")

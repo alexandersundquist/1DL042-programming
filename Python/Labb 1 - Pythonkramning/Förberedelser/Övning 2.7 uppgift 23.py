@@ -1,0 +1,6 @@
+print("Vilka två tal vill du räkna ut?")
+x=input("Skriv ditt första tal")
+x=int(x)
+y=input("Skriv ditt andra tal")
+y=int(y)
+print("Summan är", x+y, "differensen är", x-y, "produten är", x*y, "kvoten är", x/y)
